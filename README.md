@@ -1,1 +1,0 @@
-# smol-smol-setup
